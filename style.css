@@ -1,0 +1,13 @@
+.container{
+    margin: auto;
+    display: flex;
+    background-color: blueviolet;
+    flex-direction: column;
+    width: 120px;
+}
+#cal{
+    margin-top: 0px;
+}
+.row{
+    padding: 5px;
+}
